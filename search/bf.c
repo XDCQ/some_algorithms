@@ -1,5 +1,5 @@
 /*
-strstr()函数的暴力查找版本，时间复杂度O(n^2)
+	strstr()函数的暴力查找版本，时间复杂度O(n^2)
 */
 #include <stdio.h>
 
